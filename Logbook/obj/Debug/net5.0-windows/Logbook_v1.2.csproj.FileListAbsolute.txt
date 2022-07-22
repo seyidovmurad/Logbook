@@ -1,0 +1,44 @@
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.exe
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.deps.json
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.runtimeconfig.json
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.runtimeconfig.dev.json
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.dll
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\ref\Logbook_v1.2.dll
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.pdb
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.AssemblyReference.cache
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Form1.resources
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.StudentUC.resources
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.GenerateResource.cache
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.AssemblyInfoInputs.cache
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.AssemblyInfo.cs
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.CoreCompileInputs.cache
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.dll
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\ref\Logbook_v1.2.dll
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.pdb
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.genruntimeconfig.cache
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Properties.Resources.resources
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook.MSComboBox.resources
+C:\Users\01mur\source\repos\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Form2.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.exe
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.deps.json
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.runtimeconfig.json
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.runtimeconfig.dev.json
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.dll
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\ref\Logbook_v1.2.dll
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\bin\Debug\net5.0-windows\Logbook_v1.2.pdb
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.AssemblyReference.cache
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook.MSComboBox.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Form1.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Form2.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.Properties.Resources.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1._2.StudentUC.resources
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.GenerateResource.cache
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.AssemblyInfoInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.AssemblyInfo.cs
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.csproj.CoreCompileInputs.cache
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.dll
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\ref\Logbook_v1.2.dll
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.pdb
+C:\Users\01mur\Desktop\step it\Homework_winform\4-30.09.2021\Logbook_v1.2\Logbook_v1.2\obj\Debug\net5.0-windows\Logbook_v1.2.genruntimeconfig.cache
